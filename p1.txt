@@ -1,2 +1,4 @@
 new file added
 new line added
+another line added
+rebase started
